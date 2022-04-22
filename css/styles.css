@@ -1,0 +1,56 @@
+body{
+	font-family: Montserrat;
+}
+
+#title{
+	background-color: hotpink;
+}
+
+.container-fluid{
+	padding: 3% 5%;
+}
+
+#title h1{
+	font-family: montserrat-black;
+	font-size: 3rem;
+	line-height: 1.5;
+}
+
+h1{
+	font-family: Montserrat-Black;
+	font-size: 3rem;
+	line-height: 1.5;
+}
+
+h3{
+	font-family: Montserrat-Black;
+}
+
+h2{
+	font-size: 2.8rem;
+	line-height: 1.5;
+}
+
+#title .img-6{
+	transform: rotate(20deg);
+}
+
+.stats:hover{
+	color: lightpink;
+}
+
+#testimonials{
+	text-align: center;
+	margin-top: 15px;
+	background-color: #ef8172;
+	font-family: Montserrat-Black;
+}
+
+#press{
+	text-align: center;
+}
+
+.carousel-item{
+	padding: 6% 14%;
+}
+
